@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url('https://wallpaperaccess.com/full/1156725.jpg');
+}
+</style>
+</head>
+<body>
+
+<h2 align="center" style="font-size:200%;color:white;">BIODATA</h2>
+<img src="Faris I.jpeg" alt="center" width="250" height="250">
+
+<p style="font-size:140%;color:white;">Name: FARIS IKMAL BIN HAMDAN</p>
+<p style="font-size:140%;color:white;">Age: 21 Years Old</p>
+<p style="font-size:140%;color:white;">Gender: Male</p>
+<p style="font-size:140%;color:white;">Date of Birth: 17/8/2000</p>
+<p style="font-size:140%;color:white;">Address: NO.36, Jalan Pelaga Satu 17/14a, Seksyen 17, 40200 Shah Alam, Selangor</p>
+<p style="font-size:140%;color:white;"">Hobbies: Badminton</p>
+<p style="font-size:150%;text-align:center;color:white;">farisikmal178@gmail.com<p>
+<p style="font-size:150%;text-align:center;"><a href="https://twitter.com/FarisIk18368119">Twitter</a></p>
+<p style="font-size:150%;text-align:center;"><a href="https://www.facebook.com/villafaris/">Facebook</a></p>
+
+<br />
+<h3 align="center" style="font-size:200%;color:white;">EXPERIENCE</h3>
+
+<p2 style="font-size:140%;color:white;">I used to work part time at the Blue Wave Hotel as a caterer helping to manage the event preparations and tidying up after the event for 2 days. After that, I worked at Karangkraf in the store unit sorting books back onto shelves and packing book orders for bookstores for a year.</p>
+<br />
+<h4 align="center" style="font-size:200%;color:white;">EDUCATION</h4>
+
+<p style="font-size:140%;color:white;">Primary school: Sekolah Kebangsaan Seksyen 17</p>
+<img src="https://fastly.4sqi.net/img/general/width960/ZPQK1EDEADDF3EEHVXOAI2QRT25AUA4DN2MH1NZ2DXNCEEZL.jpg" alt="center" width="250" height="250">
+<p style="font-size:140%;color:white;">Secondary school: Sekolah Menengah Kebangsaan Seksyen 24 for 2 years and Sekolah Menengah Kebangsaan Seksyen 16 for 3 years</p>
+<img src="https://fastly.4sqi.net/img/general/width960/dnytE6-U2ahVFCeY4uz2jhRIziYcaoeOc_cJQl4ekfc.jpg" alt="center" width="250" height="250">
+<img src="https://fastly.4sqi.net/img/general/width960/9737563_zS0vGq670JHorzreBvdEDx_ev2kRRsisJJ_Lqc45DKQ.jpg" alt="center" width="250" height="250">
+<p style="font-size:140%;color:white;">University: Universiti Teknologi MARA (UiTM) Cawangan Melaka Kampus Alor Gajah (Pra Diploma) and Universiti Teknologi MARA (UiTM) Cawangan Kedah Kampus Sungai Petani (Diploma)</p>
+<img src="https://www.remaja.my/wp-content/uploads/2020/10/291158.jpeg" alt="center" width="250" height="250">
+<img src="https://3.bp.blogspot.com/-N_OT4tdtOFA/UYdjir0qFFI/AAAAAAAABM4/UEOEYir2MWI/s1600/Photo0222.jpg" alt="center" width="250" height="250">
+<br />
+
+<h5 align="center" style="font-size:200%;color:white;">FAMILY</h5>
+
+<img src="Mother.jpg" alt="center" width="250" height="250">
+<p style="font-size:140%;color:white;">Mother: Rosidah binti Samaun, 54 years old, Housewife</p>
+
+<img src="Sister.jpg" alt="center" width="250" height="250">
+<p style="font-size:140%;color:white;">Sister: Nor Iffah Fatini bin Hamdan, 27 years old, Working as a clerk at MPSJ</p>
+
+<img src="Brother.jpg" alt="center" width="250" height="250">
+<p style="font-size:140%;color:white;">Brother: Fazrie Mirza Bin Hamdan, 24 years old</p>
+
+<img src="L Brother.jpg" alt="center" width="250" height="250">
+<p style="font-size:140%;color:white;">Younger Brother: Fadzlan Danish, 17 years old, Student SMK Seksyen 18</p>
+
+</body>
+</html>
